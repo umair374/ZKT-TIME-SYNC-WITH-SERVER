@@ -1,0 +1,13 @@
+C:\Users\UMAIR\source\repos\TimeSyncService\TimeSyncService\obj\Debug\TimeSyncService.csproj.AssemblyReference.cache
+C:\Users\UMAIR\source\repos\TimeSyncService\TimeSyncService\obj\Debug\Interop.zkemkeeper.dll
+C:\Users\UMAIR\source\repos\TimeSyncService\TimeSyncService\obj\Debug\TimeSyncService.csproj.ResolveComReference.cache
+C:\Users\UMAIR\source\repos\TimeSyncService\TimeSyncService\obj\Debug\TimeSyncService.csproj.CoreCompileInputs.cache
+C:\Users\UMAIR\source\repos\TimeSyncService\TimeSyncService\bin\Debug\TimeSyncService.exe.config
+C:\Users\UMAIR\source\repos\TimeSyncService\TimeSyncService\bin\Debug\TimeSyncService.exe
+C:\Users\UMAIR\source\repos\TimeSyncService\TimeSyncService\bin\Debug\TimeSyncService.pdb
+C:\Users\UMAIR\source\repos\TimeSyncService\TimeSyncService\bin\Debug\Oracle.ManagedDataAccess.dll
+C:\Users\UMAIR\source\repos\TimeSyncService\TimeSyncService\obj\Debug\TimeSync.140E016D.Up2Date
+C:\Users\UMAIR\source\repos\TimeSyncService\TimeSyncService\obj\Debug\TimeSyncService.exe
+C:\Users\UMAIR\source\repos\TimeSyncService\TimeSyncService\obj\Debug\TimeSyncService.pdb
+C:\Users\UMAIR\source\repos\TimeSyncService\TimeSyncService\obj\Debug\TimeSyncService.ProjectInstaller.resources
+C:\Users\UMAIR\source\repos\TimeSyncService\TimeSyncService\obj\Debug\TimeSyncService.csproj.GenerateResource.cache
